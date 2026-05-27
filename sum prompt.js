@@ -67,9 +67,9 @@
 
 // countdown
 
-let count = 10;
+// let count = 10;
 
-while (count >= 1){
-    console.log(count);
-    count--;
-}
+// while (count >= 1){
+//     console.log(count);
+//     count--;
+// }
